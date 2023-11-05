@@ -1,0 +1,37 @@
+/* https://www.w3schools.com/Bootstrap/bootstrap_grid_basic.asp */
+/* https://www.w3schools.com/csS/css3_buttons.asp */
+/* https://stackoverflow.com/questions/4191386/jquery-how-to-find-an-element-based-on-a-data-attribute-value */
+
+body{
+	background-color: black;
+	border: 1px solid black;
+}
+
+.mySpacer{
+	padding: 5%;
+}
+
+#screen{
+	width: 722px;
+	height: 362px;
+	border: 1px solid orange;
+	background-color: black;
+	opacity: 0.1;
+}
+
+#screen:hover {
+	background-color: transparent;
+	opacity: 1;
+}
+
+#app{
+	width: 720px;
+	height: 360px;
+	border: 1px solid white;
+}
+
+
+
+
+
+
